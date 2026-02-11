@@ -1,7 +1,8 @@
 <!-- ================= HEADER BANNER ================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e73df,100:1cc88a&height=200&section=header&text=Pujari%20Ajay%20Kumar&fontSize=40&fontColor=ffffff" width="100%"/>
-
+<p align="center">
+  <img src="./profile.png" width="180" style="border-radius:50%;" />
+</p>
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 
 <h3 align="center">Data Analyst • Power BI Developer • Python Enthusiast • BI & Automation Learner</h3>
