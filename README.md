@@ -8,13 +8,12 @@
 <!-- ================= PHOTO ================= -->
 
 <p align="center">
-  <img src="./profile.png" width="180" style="border-radius:50%;" />
-</p>
+  <img src="./profile.png" width="180">
 
 <!-- ================= TYPING ANIMATION ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Power+BI+Developer;Python+Automation;SQL+Specialist;Dashboard+Designer&center=true&width=500&height=45">
+  <img src="./profile.png" width="180">
 </p>
 
 ---
