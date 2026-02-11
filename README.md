@@ -1,10 +1,8 @@
 <!-- ================= HEADER BANNER ================= -->
 
-<p align="center">
-  <img src="./profile.png" width="180" style="border-radius:50%;" />
-</p>
-<h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 
+<h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
+<img src="./profile.png" width="180">
 <h3 align="center">Data Analyst • Power BI Developer • Python Enthusiast • BI & Automation Learner</h3>
 
 <!-- ================= PHOTO ================= -->
