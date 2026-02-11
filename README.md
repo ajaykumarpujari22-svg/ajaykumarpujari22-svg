@@ -1,16 +1,19 @@
 <!-- ================= HEADER BANNER ================= -->
 
-<h1 align="center">Hi 👋, I'm Pujari Ajay Kumar</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e73df,100:1cc88a&height=200&section=header&text=Pujari%20Ajay%20Kumar&fontSize=40&fontColor=ffffff" width="100%"/>
+
+<h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
+
+<h3 align="center">Data Analyst • Power BI Developer • Python Enthusiast • BI & Automation Learner</h3>
+
+<!-- ================= PHOTO ================= -->
 
 <p align="center">
-  <b>Data Analyst • Power BI Developer • Python Enthusiast • BI & Automation Learner</b>
+  <img src="./profile.png" width="180" style="border-radius:50%;" />
 </p>
 
-<p align="center">
-  📍 Hyderabad, India
-</p>
+<!-- ================= TYPING ANIMATION ================= -->
 
-<!-- Animated typing effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Power+BI+Developer;Python+Automation;SQL+Specialist;Dashboard+Designer&center=true&width=500&height=45">
 </p>
@@ -19,11 +22,9 @@
 
 ## 🧠 About Me
 
-💡 Passionate about turning *raw data → insights → dashboards*  
-📊 Love building *interactive Power BI reports & automation systems*  
-🚀 Focused on *Business Intelligence & Data Analytics careers*
-
-✔ Python | SQL | Power BI | Excel | Web Development
+💡 Passionate about turning *raw data into insights & dashboards*  
+📊 Skilled in *Python, SQL, Power BI, Excel, Web Development*  
+🚀 Actively seeking *Data Analyst / BI roles*
 
 ---
 
@@ -44,44 +45,39 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Database Design](https://img.shields.io/badge/Database_Design-black?style=for-the-badge)
-
-### ⚙️ Tools
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
 ## 💼 Experience
 
 ### 📈 Data Analytics Intern – ExcelR
-✔ Analyzed large datasets using Python & SQL  
 ✔ Built interactive Power BI dashboards  
+✔ Python + SQL analysis  
 ✔ Improved reporting accuracy by 40%
 
 ### 🌐 Web Development Intern – DDU-GKY
 ✔ Built 10+ responsive web pages  
-✔ Reduced load time by 30%  
-✔ Version control using GitHub
+✔ Reduced load time by 30%
 
 ---
 
 ## 🚀 Projects
 
 ### 🌾 CropAI – Smart Farmer Support System
-👉 Crop suggestions, weather insights, fertilizer guidance  
-👉 Reduced decision time by 60%
+Python + MySQL + Web  
+👉 Crop suggestions & weather insights
 
-### 📊 Student Performance Analytics Dashboard
-👉 10,000+ records cleaned using Python  
-👉 KPI dashboards in Power BI
+### 📊 Student Performance Dashboard
+Power BI + Python  
+👉 KPI tracking & analytics
 
-### 💻 Personal Portfolio Website
-👉 Fully responsive modern portfolio using HTML/CSS/JS
+### 💻 Portfolio Website
+HTML + CSS + JS  
+👉 Fully responsive personal site
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
@@ -90,18 +86,9 @@
 
 ---
 
-## 📚 Currently Learning
-- Advanced Power BI (DAX, Custom Visuals)
-- SQL Optimization
-- Python Automation
-- Business Intelligence
-
----
-
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 📧 ajaykumarpujari22@gmail.com  
-📱 6303401919  
 
 <p align="center">
   <a href="mailto:ajaykumarpujari22@gmail.com">
@@ -111,9 +98,9 @@
 
 ---
 
-## 👀 Profile Views
+## 👀 Visitors
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 ---
 
-⭐ Thanks for visiting my profile! Let's build meaningful data solutions together.
+⭐ Thanks for visiting my profile!
