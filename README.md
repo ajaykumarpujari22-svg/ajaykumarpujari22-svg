@@ -1,12 +1,12 @@
 <h1 align="center">🚀 Ajay Kumar Pujari</h1>
 <h3 align="center">Electronics & Communication Engineer | Full Stack Developer | Problem Solver</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer;Python+%7C+MySQL+%7C+JavaScript;Building+Real+World+Applications;Future+Full+Stack+Engineer" />
-</p>
 <p align="center">
   <img src="./profile.png" width="170">
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer;Python+%7C+MySQL+%7C+JavaScript;Building+Real+World+Applications;Future+Full+Stack+Engineer" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -28,37 +28,52 @@ I believe in:
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" /><br/>
+  C &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" /><br/>
+  Python &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" /><br/>
+  JavaScript
 </p>
 
 ---
 
 ### 🌐 Frontend Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" /><br/>
+  HTML5 &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" /><br/>
+  CSS3 &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" /><br/>
+  Bootstrap
 </p>
 
 ---
 
 ### 🗄️ Database
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" /><br/>
+  MySQL
 </p>
 
 ---
 
 ### ⚙️ Tools & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" /><br/>
+  VS Code &nbsp;&nbsp;&nbsp;&nbsp;
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" /><br/>
+  Git &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" /><br/>
+  GitHub
+</p>
 ## 💼 Experience
 
 ### 🌟 Web Development Intern – DDU-GKY (Govt. of India)
