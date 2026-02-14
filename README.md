@@ -1,111 +1,101 @@
-<h1 align="center">Hi 👋, I'm Ajay Kumar Pujari</h1>
-<h3 align="center">B.Tech ECE Student | Web Developer | Python Enthusiast 🚀</h3>
+<h1 align="center">🚀 Ajay Kumar Pujari</h1>
+<h3 align="center">Electronics & Communication Engineer | Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
-  <a href="mailto:ajaykumarpujari22@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/pujari-ajay-kumar-a30268362">💼 LinkedIn</a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer;Python+%7C+MySQL+%7C+JavaScript;Building+Real+World+Applications;Future+Full+Stack+Engineer" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 Electronics & Communication Engineering Student (2022–2026)  
-🏫 A.M. Reddy Memorial College of Engineering  
+🎓 B.Tech in Electronics & Communication Engineering (2022–2026)  
+📍 Hyderabad, India  
 📊 CGPA: 7.47  
 
-I am a passionate engineering student who enjoys building real-world web applications and database-driven systems.  
-I focus on writing clean code, optimizing performance, and creating responsive user experiences.
+I build scalable and responsive web applications focused on performance and usability.  
+Strong foundation in programming, databases, and frontend technologies.
 
-Currently improving my *Full Stack Development* and *Problem-Solving Skills*.
+I believe in:
+✔ Clean Code  
+✔ Performance Optimization  
+✔ Real-World Problem Solving  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-### 💻 Programming
-<p>
-<img src="https://skillicons.dev/icons?i=c,python,js" />
-</p>
-
-### 🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
-</p>
-
-### 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### ⚙️ Tools
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,bootstrap,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## 💼 Internship Experience
+## 💼 Experience
 
 ### 🌟 Web Development Intern – DDU-GKY (Govt. of India)
-📅 Sep 2025 – Jan 2026  
 
-✔ Built 10+ responsive web pages  
-✔ Ensured 100% cross-device compatibility  
-✔ Reduced page load time by 30%  
-✔ Used GitHub for collaborative development  
+🔹 Built 10+ responsive web pages  
+🔹 Achieved 100% cross-device compatibility  
+🔹 Reduced page load time by 30%  
+🔹 Used GitHub for version control  
 
 ---
 
 ### 💻 Java Full Stack Intern – SkillDzire Pvt Ltd
-📅 Apr 2024 – Jun 2024  
 
-✔ Developed mini web applications  
-✔ Implemented CRUD operations  
-✔ Strengthened OOP & backend fundamentals  
+🔹 Developed mini web applications  
+🔹 Implemented CRUD with database integration  
+🔹 Strengthened OOP and backend fundamentals  
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🌾 CropAI – Smart Farmer Support System
-*Python | MySQL | HTML | CSS | Bootstrap*
+> Python | MySQL | HTML | CSS | Bootstrap
 
-* Digital advisory platform for crop suggestions  
-* Integrated weather & fertilizer insights  
-* Reduced farmer decision time by 60%  
-* Fully responsive design  
+✔ Digital crop advisory platform  
+✔ Weather & fertilizer insights  
+✔ Reduced decision-making time by 60%  
+✔ Responsive rural-friendly UI  
 
 ---
 
 ### 🏠 StaySmart – Smart Housing Finder
-*HTML | CSS | JavaScript*
+> HTML | CSS | JavaScript
 
-* Rental property search application  
-* Smart filtering system  
-* Responsive & mobile-friendly UI  
+✔ Smart filtering by location & budget  
+✔ Mobile-friendly interface  
+✔ User-focused design  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="170"/>
 </p>
 
 ---
 
-## 📈 Goals for 2026
+## 🎯 2026 Goals
 
-- 🔹 Master Full Stack Development  
-- 🔹 Contribute to Open Source  
-- 🔹 Build Production-Ready Applications  
-- 🔹 Improve Data Structures & Algorithms  
+- 🚀 Become Industry-Ready Full Stack Developer  
+- 🧠 Master DSA & System Design  
+- 🌍 Contribute to Open Source  
+- 💼 Secure Core Software/Tech Role  
 
 ---
 
-<h3 align="center">⭐ If you like my work, feel free to star my repositories!</h3>
+## 📫 Let's Connect
+
+📧 ajaykumarpujari22@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/pujari-ajay-kumar-a30268362  
+
+---
+
+<p align="center">
+  ⭐ "Consistency and Continuous Learning Build Strong Engineers."
+</p>
