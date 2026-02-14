@@ -90,15 +90,7 @@ An intuitive web application simplifying rental property search for bachelors:
 - Implemented CRUD operations with database connectivity
 - Enhanced OOP and problem-solving skills
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-</div>
 
 ## 🏆 Certifications
 
