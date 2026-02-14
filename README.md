@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Passionate+Web+Developer;Python+%7C+MySQL+%7C+JavaScript;Building+Real+World+Applications;Future+Full+Stack+Engineer" />
 </p>
-
+<p align="center">
+  <img src="./profile.png" width="170">
+</p>
 ---
 
 ## 👨‍💻 About Me
