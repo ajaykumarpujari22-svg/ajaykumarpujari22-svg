@@ -27,53 +27,75 @@ I believe in:
 
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### 👨‍💻 Programming Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" /><br/>
-  C &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" /><br/>
-  Python &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" /><br/>
-  JavaScript
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/><br/>C
 </p>
 
----
-
-### 🌐 Frontend Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" /><br/>
-  HTML5 &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" /><br/>
-  CSS3 &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" /><br/>
-  Bootstrap
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/><br/>Python
 </p>
 
----
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/><br/>JavaScript
+</p>
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🌐 Frontend
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/><br/>HTML5
+</p>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/><br/>CSS3
+</p>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/><br/>Bootstrap
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
 
 ### 🗄️ Database
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" /><br/>
-  MySQL
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/><br/>MySQL
 </p>
 
----
+</td>
 
-### ⚙️ Tools & Platforms
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" /><br/>
-  VS Code &nbsp;&nbsp;&nbsp;&nbsp;
+<td valign="top" width="50%">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" /><br/>
-  Git &nbsp;&nbsp;&nbsp;&nbsp;
+### ⚙️ Tools
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" /><br/>
-  GitHub
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/><br/>VS Code
 </p>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/><br/>Git
+</p>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/><br/>GitHub
+</p>
+
+</td>
+</tr>
+</table>
 ## 💼 Experience
 
 ### 🌟 Web Development Intern – DDU-GKY (Govt. of India)
